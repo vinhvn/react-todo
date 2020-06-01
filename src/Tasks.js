@@ -28,13 +28,7 @@ function Tasks({ todos, deleteTodo }) {
         <p className={'center white-text'}>You have no tasks left. Hooray!</p>
     );
 
-    return (
-        <div className={'row'}>
-            <div className={'col s8 offset-s2'}>
-                <div className={'todos collection'}>{todoList}</div>
-            </div>
-        </div>
-    );
+    return <div className={'todos collection'}>{todoList}</div>;
 }
 
 export default Tasks;
