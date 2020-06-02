@@ -4,6 +4,8 @@
 
 A small project to implement a simple todo-list using react. Features include adding and removing tasks.
 
+Currently deployed at [todo.vinhnguyen.ca](https://todo.vinhnguyen.ca/)
+
 Credit to [The Net Ninja](https://www.youtube.com/channel/UCW5YeuERMmlnqo4oq8vwUpg) and his React tutorials.
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
