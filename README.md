@@ -1,4 +1,4 @@
-# react-todo
+# todo-app
 
 ## Description
 
